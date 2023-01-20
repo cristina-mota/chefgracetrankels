@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo img {
+  max-width: 60rem;
+  min-width: 20rem;
+  width: 21rem;
+  height: 20rem;
+  text-align: center;
+}
+
+a img {
+  width: 3rem;
+
+}
+
+span {
+  padding-top: rem;
+  color: red;
+}
+
+main {
+  text-align: center;
+  margin: auto;
+  background-color: rgb(251, 251, 188);
+  max-width: 60rem;
+  min-width: 20rem;
+  width: 21rem;
+  height: 150rem;
+}
+
+.abertura img {
+  max-width: 58rem;
+  min-width: 18rem;
+  width: 12rem;
+  height: 17rem;
+  text-align: center;
+  padding: 0.6rem;
+  border-radius: 1.5rem;
+}
+
+p {
+  color:rgb(245, 15, 38);
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  color:rgb(237, 24, 24);
+}
+
+iframe {
+  max-width: 58rem;
+  min-width: 18rem;
+  width: 14rem;
+  height: 14rem;
+  text-align: center;
+  padding: 0.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.rest img {
+  max-width: 58rem;
+  min-width: 18rem;
+  width: 12rem;
+  height: 16rem;
+  text-align: center;
+  padding: 0.5rem;
+  border-radius: 1.5rem;
+  padding-top: 1rem;
+}
